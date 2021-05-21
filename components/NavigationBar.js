@@ -1,11 +1,5 @@
 import React from 'react';
-import {
-  StyleSheet,
-  TouchableOpacity,
-  Dimensions,
-  View,
-  Image,
-} from 'react-native';
+import {StyleSheet, TouchableOpacity, View, Image} from 'react-native';
 
 export default function Header() {
   return (
